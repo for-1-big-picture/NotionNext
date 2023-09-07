@@ -12,7 +12,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享编程',
   HERO_TITLE_2: '与思维认知',
-  HERO_TITLE_3: 'https://www.lets-shake-it.life',
+  //HERO_TITLE_3: '',
   //HERO_TITLE_4: '',
  // HERO_TITLE_5: '',
  // HERO_TITLE_LINK: 'https://www.lets-shake-it.life',
