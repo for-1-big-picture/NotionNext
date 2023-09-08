@@ -11,9 +11,9 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '有趣的事情',
-  //HERO_TITLE_2: '',
-  HERO_TITLE_3: '正在发生',
-  //HERO_TITLE_4: '',
+  HERO_TITLE_2: '正在发生',
+  HERO_TITLE_3: 'Something interesting ',
+  HERO_TITLE_4: 'is unfolding',
  // HERO_TITLE_5: '',
  // HERO_TITLE_LINK: 'https://www.lets-shake-it.life',
 
