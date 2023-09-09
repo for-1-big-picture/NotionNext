@@ -13,8 +13,8 @@ const CONFIG = {
   HERO_TITLE_1: '有趣的事情',
   HERO_TITLE_2: '正在发生',
   HERO_TITLE_3: '𝐒𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐢𝐬 𝐮𝐧𝐟𝐨𝐥𝐝𝐢𝐧𝐠',
-  HERO_TITLE_4: '速度查看最新文章',
- HERO_TITLE_5: '速度查看最新文章',
+  //HERO_TITLE_4: '速度查看最新文章',
+  HERO_TITLE_5: '速度查看最新文章',
   HERO_TITLE_LINK: 'https://www.lets-shake-it.life/article/9b2891bb-a852-4b63-a740-40b444e5df41',
 
   // 英雄区显示三个置顶分类
@@ -100,8 +100,8 @@ const CONFIG = {
 
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   SOCIAL_CARD_TITLE_1: '来找我玩吧',
-  SOCIAL_CARD_TITLE_2: '点击查看社交界面',
-  SOCIAL_CARD_TITLE_3: '',
+  SOCIAL_CARD_TITLE_2: '',
+  SOCIAL_CARD_TITLE_3: '点击查看社交界面',
   SOCIAL_CARD_URL: 'https://www.lets-shake-it.life/article/contactme',
 
   // *****  以下配置无效，只是预留开发 ****
