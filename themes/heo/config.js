@@ -6,7 +6,8 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: 'Hi，欢迎来到我的博客🎉', url: 'https://www.lets-shake-it.life' },
-    //{ title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '在整了在整了', url: 'https://www.lets-shake-it.life/article/update-todo-list' },
+    { title: '联系我', url: 'https://www.lets-shake-it.life/article/contactme' },
   ],
 
   // 英雄区(首页顶部大卡)
@@ -15,7 +16,7 @@ const CONFIG = {
   HERO_TITLE_3: '𝐒𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐢𝐬 𝐮𝐧𝐟𝐨𝐥𝐝𝐢𝐧𝐠',
   //HERO_TITLE_4: '速度查看最新文章',
   HERO_TITLE_5: '速度查看最新文章',
-  HERO_TITLE_LINK: 'https://www.lets-shake-it.life/article/9b2891bb-a852-4b63-a740-40b444e5df41',
+  HERO_TITLE_LINK: 'https://www.lets-shake-it.life/article/that-rocket-project',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '我班那些事', url: '/category/我班那些事' },
